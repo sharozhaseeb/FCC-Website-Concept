@@ -1,4 +1,5 @@
 # FCC-Website-Concept
+## https://sharozhaseeb.github.io/FCC-Website-Concept/ **For Live Demo**
 A minimalistic design of a university's website using scratch HTML, CSS &amp; JAVASCRIPT.
 
 ![1](https://user-images.githubusercontent.com/83841336/140895188-92a9550e-8f10-4fa1-96f7-92f21071e22d.PNG)
